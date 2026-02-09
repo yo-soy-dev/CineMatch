@@ -7,7 +7,7 @@ import streamlit as st
 API_BASE = "https://movie-recommender-2mb6.onrender.com" or "http://127.0.0.1:8000"
 TMDB_IMG = "https://image.tmdb.org/t/p/w500"
 
-st.set_page_config(page_title="Movie Recommender", page_icon="🎬", layout="wide")
+st.set_page_config(page_title="CineMatch", page_icon="🎬", layout="wide")
 
 # =============================
 # STYLES (minimal modern)
