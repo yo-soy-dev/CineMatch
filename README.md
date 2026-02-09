@@ -1,4 +1,4 @@
-# 🎬 Content-Based Movie Recommendation System
+# 🎬 CineMatch - Content-Based Movie Recommendation System
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104%2B-009688.svg)](https://fastapi.tiangolo.com/)
